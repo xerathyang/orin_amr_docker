@@ -12,7 +12,7 @@ git clone https://github.com/xerathyang/orin_amr_docker.git
 ```
 * Move directory into repository.
 ```
-cd orin_arm_docker
+cd orin_amr_docker
 ```
 * Change script file to be executable.
 ```
