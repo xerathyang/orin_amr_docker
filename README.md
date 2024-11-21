@@ -8,17 +8,17 @@
 
 * Clone repository.
 ```
-$ git clone https://github.com/xerathyang/orin_amr_docker.git
+git clone https://github.com/xerathyang/orin_amr_docker.git
 ```
 * Move directory into repository.
 ```
-$ cd orin_arm_docker
+cd orin_arm_docker
 ```
 * Change script file to be executable.
 ```
-$ chmod +x run_docker.sh
+chmod +x run_docker.sh
 ```
 * Run the script.
 ```
-$ ./run_docker.sh
+./run_docker.sh
 ```
